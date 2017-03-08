@@ -1,0 +1,19 @@
+{
+  "name": "skeletor-sass-utilities",
+  "version": "0.1.0",
+  "description": "Bunch of sass utilities for Skeletor",
+  "main": "skeletor-sass-utilities.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delphic-digital/skeletor-sass-utilities.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delphic-digital/skeletor-sass-utilities/issues"
+  },
+  "homepage": "https://github.com/delphic-digital/skeletor-sass-utilities#readme"
+}
